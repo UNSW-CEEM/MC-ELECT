@@ -1,5 +1,5 @@
 %--------------------- Codes_MCS_modelling.m------------------------------
-% This script file for the Australian NEM case study. This modelling
+% This script file for the general portfolio modelling. This modelling
 % takes into account the existing coal and gas generation capacity
 % %
 %------------------- created 20/04/2015 by Peerapat V.--------------------
