@@ -1,1 +1,2 @@
-# China-Energy
+## GEPO application on China’s electricity sector 
+With the CEEM GEPO modelling tool we evaluate the potential impacts of an energy, climate policy or policy mix on future generation investment in China’s electricity sector in 2030. This tool incorporates load duration curve techniques with Monte Carlo Simulation and Mean Variance Portfolio Theory. It allows to compare trade-offs between different future generation portfolios in terms of expected electricity generation costs and their associated uncertainties as well as their environmental impacts based on the calculated expected emissions of carbon emissions and local air pollutants (NOx, SO2, PM2.5).
